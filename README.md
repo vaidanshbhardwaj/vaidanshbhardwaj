@@ -1,7 +1,7 @@
 # Hi, I'm Vaidansh Bhardwaj
 
 * Currently learning Devops.
-* Freelance Graphic Designer(Logos, Banner, etc).
+* Amateur Graphic Designer(Freelance).
 * Also familiar with basic Android Development, Kotlin
 
 
