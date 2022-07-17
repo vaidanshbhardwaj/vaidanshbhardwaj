@@ -14,12 +14,15 @@ NOTE:- The top languages do not portray my skills in a specific language,  it's 
 <p>
 
   ## **Find me on:**
-<p align="left">
-<a href = "https://www.linkedin.com/in/vaidanshbhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
-<a href = "https://twitter.com/vaidansh23"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a>    
+<p align="left"> 
+<a href = "https://twitter.com/vaidansh23"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"</a> 
+<a href = "https://www.linkedin.com/in/vaidanshbhardwaj/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   </p>
-
   
+  
+#### My Blog:https://hashnode.com/@vaidansh 
+
+
 ## Thanks for stopping by!✌️
 
   
