@@ -1,8 +1,8 @@
 # Hi, I'm Vaidansh Bhardwaj
 
-* Currently learning Devops.
+* Currently learning Machine Learning.
 * Amateur Graphic Designer(Freelance).
-* Also familiar with basic Android Development, Kotlin
+* Also familiar with basic Android Development, Kotlin, Cloud Technologies
 
 
 ![Vaidansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaidanshbhardwaj&show_icons=true&theme=tokyonight)
@@ -20,7 +20,7 @@ NOTE:- The top languages do not portray my skills in a specific language,  it's 
   </p>
   
   
-#### My Blog:https://hashnode.com/@vaidansh 
+#### My Blog: https://hashnode.com/@vaidansh 
 
 
 ## Thanks for stopping by!✌️
