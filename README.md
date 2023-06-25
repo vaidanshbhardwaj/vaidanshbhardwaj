@@ -1,8 +1,8 @@
 # Hi, I'm Vaidansh Bhardwaj
 
-* Currently learning Front-End Development alongside Machine Learning.
+* Currently learning Front-End Development.
 * Amateur Graphic Designer(Freelance).
-* Familiar with Android Development(Kotlin), Cloud Technologies
+* Familiar with Android Development(Kotlin), Cloud Technologies, AI/ML.
 
 
 ## Lanuages & Tools
