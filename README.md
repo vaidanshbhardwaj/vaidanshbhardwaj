@@ -20,12 +20,10 @@
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-
-![Top Languages](
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaidanshbhardwaj&theme=radical&exclude=exclude)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaidanshbhardwaj&theme=2077)
 
 NOTE:- The top languages do not portray my skills in a specific language, it's just a metric to show which language is used in my repositories accordingly.
-        
+
 ## **Find me on:**
 <p align="left"> 
 <a href = "https://twitter.com/vaidansh23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
