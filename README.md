@@ -3,6 +3,7 @@
 * Currently learning Front-End Development.
 * Amateur Graphic Designer(Freelance).
 * Familiar with Android Development(Kotlin), Cloud Technologies, AI/ML.
+* Content Writer/ Creator.
 
 
 ## Lanuages & Tools
