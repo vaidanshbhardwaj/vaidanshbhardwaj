@@ -10,7 +10,7 @@
 
 - **Content Creation(Blogs, Visuals, Threads)**
 
-- <a href = 'https://townhall.hashnode.com/the-epic-hashnode-writeathon-the-winners' > **The Epic Hashnode Writeathon Winner(Cloud Computing Category)** </a>
+- <a href = 'https://townhall.hashnode.com/the-epic-hashnode-writeathon-the-winners' target="_blank"> **The Epic Hashnode Writeathon Winner(Cloud Computing Category)** </a>
 
 - **Amateur Graphic Designer(Freelance)**
 
@@ -73,19 +73,19 @@ NOTE:- The top languages do not portray my skills in a specific language, it's j
 
 ## 📚 Blog Posts
 <div align="center">
-  <a href="https://blog.kubesimplify.com/introduction-to-cicd-and-cicd-pipeline" target=”_blank”>
+  <a href="https://blog.kubesimplify.com/introduction-to-cicd-and-cicd-pipeline" target="_blank">
 	  <img src = 'https://cdn.hashnode.com/res/hashnode/image/upload/v1652007130723/pD3mV2_HY.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp' height = '80px' width = '164px'>
 	  <br>
     <b>Introduction to CI/CD & CI/CD Pipeline</b>
   </a>
   <br>
-  <a href="https://blog.kubesimplify.com/starting-your-devops-journey-as-a-windows-user" target=”_blank”>
+  <a href="https://blog.kubesimplify.com/starting-your-devops-journey-as-a-windows-user" target="_blank">
 	  <img src = 'https://cdn.hashnode.com/res/hashnode/image/upload/v1649179112257/fD09s4AqP.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp' height = '80px' width = '164px'>
 	  <br>
     <b>Starting your DevOps Journey as a Windows User</b>
   </a>
   <br>
-  <a href="https://blog.kubesimplify.com/linux-boot-process-simplified" target=”_blank”>
+  <a href="https://blog.kubesimplify.com/linux-boot-process-simplified" target="_blank">
 	  <img src = 'https://cdn.hashnode.com/res/hashnode/image/upload/v1656721249571/Him5RiJ40.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp' height = '80px' width = '164px'>
 	  <br>
     <b>Linux Boot Process Simplified 🐧</b>
