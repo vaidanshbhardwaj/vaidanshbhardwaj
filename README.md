@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-- **Front-End Developmer**
+- **Front-End Developer**
 
 - **KubeSimplify Ambassador**
 
