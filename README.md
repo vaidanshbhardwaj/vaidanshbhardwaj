@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Your Name]
+## 👋 Hi there, I'm Vaidansh!
 
 #### Front-End Developer with a flair for UI/UX design and a strong fascination for cutting-edge technologies
 
