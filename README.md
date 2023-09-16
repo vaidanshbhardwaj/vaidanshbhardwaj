@@ -66,9 +66,12 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div>
 <br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaidanshbhardwaj&theme=2077
-
+<div>
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaidanshbhardwaj&theme=2077)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaidanshbhardwaj&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaidanshbhardwaj&theme=tokyonight)
+</div>
 NOTE:- The top languages do not portray my skills in a specific language, it's just a metric to show which language is used in my repositories accordingly.
 
 ## 📚 Blog Posts
