@@ -68,6 +68,7 @@
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vaidanshbhardwaj&theme=2077)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaidanshbhardwaj&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 NOTE:- The top languages do not portray my skills in a specific language, it's just a metric to show which language is used in my repositories accordingly.
 
