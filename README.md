@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Vaidansh!
+## 👋 Hi there, I'm Vaidansh!	
 
-#### Front-End Developer with a flair for UI/UX design and a strong fascination for cutting-edge technologies
+<h4>Front-End Developer with a flair for Content Creation, UI/UX design and a strong fascination for cutting-edge technologies</h4>
 
 ### 🚀 About Me
 
